@@ -1,1 +1,1 @@
-My first readme
+Shell learning
